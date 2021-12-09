@@ -17,8 +17,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-struct classdata;
-
 typedef struct __classdata__
 {
     char __classname__[128];
